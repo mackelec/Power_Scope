@@ -1,6 +1,8 @@
 # Power_Scope
 Power Scope for $10
 
+![Power_Scope](https://github.com/mackelec/Power_Scope/blob/master/images/power_scope.png)
+
 https://www.thebackshed.com/forum/forum_posts.asp?TID=11123&PN=1
 
 Software is still a work in progress.
